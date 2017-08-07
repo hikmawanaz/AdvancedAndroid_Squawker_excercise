@@ -46,3 +46,4 @@ dependencies {
     // background!
 
 }
+apply plugin: 'com.google.gms.google-services'
